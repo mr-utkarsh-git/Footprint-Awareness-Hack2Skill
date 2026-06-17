@@ -141,7 +141,10 @@ Features:
 ---
 
 # 📂 Project Structure
+
+```text
 Footprint-Awareness-Hack2Skill
+
 │
 ├── index.html
 ├── style.css
@@ -155,6 +158,9 @@ Footprint-Awareness-Hack2Skill
 │
 ├── homepage-preview.png
 └── README.md
+```
+
+---
 
 # 🧪 Testing
 
@@ -166,3 +172,117 @@ Install dependencies:
 
 ```bash
 npm install
+```
+
+Run test suite:
+
+```bash
+npm test
+```
+
+## Test Coverage
+
+Tests verify:
+
+✅ Carbon calculation logic  
+✅ Emission factor validation  
+✅ Input validation  
+✅ Boundary and edge cases  
+✅ Transport calculations  
+✅ Energy calculations  
+✅ Food footprint calculations  
+✅ Waste reduction logic  
+
+---
+
+# 🔒 Security
+
+Security practices implemented:
+
+- No use of `eval()`
+- Secure DOM manipulation
+- Input validation
+- Safe user data handling
+- Prevention of unsafe HTML injection
+
+---
+
+# ♿ Accessibility
+
+Accessibility improvements:
+
+- Semantic HTML structure
+- Proper heading hierarchy
+- Input labels
+- Keyboard-friendly interactions
+- ARIA support
+- Responsive design
+
+---
+
+# ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/mr-utkarsh-git/Footprint-Awareness-Hack2Skill.git
+```
+
+Navigate to project:
+
+```bash
+cd Footprint-Awareness-Hack2Skill
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+Open:
+
+```text
+index.html
+```
+
+in your browser.
+
+---
+
+# 🌎 Future Enhancements
+
+- 🤖 AI-powered sustainability assistant
+- 📈 Carbon history tracking dashboard
+- ☁️ Cloud-based user accounts
+- 🏆 Green rewards system
+- 👥 Community sustainability challenges
+- 📱 Mobile application
+
+---
+
+# 👨‍💻 Developer
+
+**Utkarsh Raj**
+
+GitHub:
+
+https://github.com/mr-utkarsh-git
+
+---
+
+# 🏆 Hackathon
+
+Built for:
+
+**PromptWars Virtual 2026**
+
+Powered by **Hack2skill**
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
