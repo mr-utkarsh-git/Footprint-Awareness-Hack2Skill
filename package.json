@@ -1,0 +1,14 @@
+{
+  "name": "ecosphere-carbon-tracker",
+  "version": "1.0.0",
+  "description": "Premium interactive carbon footprint tracker built for PromptWars Virtual.",
+  "main": "carbon-footprint-tracker/script.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "Utkarsh Raj",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
